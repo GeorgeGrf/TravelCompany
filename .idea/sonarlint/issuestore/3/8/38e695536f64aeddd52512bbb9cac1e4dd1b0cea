@@ -1,0 +1,6 @@
+
+_
+java:S1128"CRemove this unused import 'com.travelcompany.eshop.model.Customer'.(ó³ïQ8ÚĞ‹ÚÖ/
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ÚĞ‹ÚÖ/
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìüŸşùÿÿÿÿ8ã•‰ÚÖ/
